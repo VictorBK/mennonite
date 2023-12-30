@@ -1,4 +1,4 @@
 # mennonite
-Menu-based project.
+Menu-based project (framework to be chosen).
 
 #Bright and #Radiant
